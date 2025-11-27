@@ -62,7 +62,7 @@ import {
 } from 'lucide-react';
 
 import { theme, activeTrips, recommendedTrips, groupTrips, quizQuestions } from './constants';
-import { callGeminiAPI } from './services/geminiService';
+//import { callGeminiAPI } from './services/geminiService';
 
 // --- Components ---
 
