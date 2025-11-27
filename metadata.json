@@ -1,0 +1,5 @@
+{
+  "name": "DeepTrip AI",
+  "description": "A smart travel planning assistant powered by Gemini AI, featuring itinerary generation, group travel coordination, and personalized travel preferences.",
+  "requestFramePermissions": []
+}
