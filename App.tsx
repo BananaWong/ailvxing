@@ -99,11 +99,6 @@ export default function DeepTripApp() {
                  <p className="text-[10px] text-gray-500 font-medium">智能旅行助手</p>
               </div>
            </div>
-           <div className="flex items-center gap-2">
-              <div className="size-8 rounded-full bg-gray-100 flex items-center justify-center">
-                 <span className="text-xs font-bold text-gray-600">VI</span>
-              </div>
-           </div>
         </div>
       )}
 
